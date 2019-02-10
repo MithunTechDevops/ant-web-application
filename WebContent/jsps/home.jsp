@@ -21,7 +21,8 @@
 		Martha Halli,Opp To Madhurai Iddly House,
 		Bangalore, Karnataka, India.
 		+91-9980923226
-		inf0@mithuntechnologies.com
+		info@mithuntechnologies.com
+		Student:Praneeth
 	</span>
 </div>
 <hr>
