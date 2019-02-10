@@ -22,7 +22,7 @@
 		Bangalore, Karnataka, India.
 		+91-9980923226
 		info@mithuntechnologies.com
-		Student:Praneeth Arabindi
+		Student name:Praneeth Arabindi
 	</span>
 </div>
 <hr>
